@@ -1,7 +1,7 @@
 package com.offer.isSubStructure;
 /*
    @author: xiaohan2021
-   @description: 输入两棵二叉树A和B，判断B是不是A的子结构。(约定空树不是任意一个树的子结构)
+   @description: 剑指offer26：输入两棵二叉树A和B，判断B是不是A的子结构。(约定空树不是任意一个树的子结构)
                 B是A的子结构， 即 A中有出现和B相同的结构和节点值
    @思路：
     1、首先是DFS找到A中值跟B根节点值一样的结点C
